@@ -7,3 +7,4 @@
 6. Multiple permissions
 Everybody!
 8. James Bond
+9. John Doe
