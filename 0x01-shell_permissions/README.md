@@ -8,3 +8,4 @@ Write a script that adds execute permission to the owner and the group owner, an
 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Write a script that sets all permissions to other users only
 Write a script that sets the mode of the file hello to -rwxr-x-wx
+Write a script that sets the mode of the file hello the same as olleh’s mode
